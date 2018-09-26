@@ -17,10 +17,10 @@ INSERT INTO `privates` (`cid`, `name`, `prefix`, `sub`) VALUES
 ```
 
 functions : 
--check channels from privates for expired (empty seconds time)
--check new name channel on edit
--change name of channel user online when join/leave
--create channel with schemat when write in private to bot !newChannel
+- check channels from privates for expired (empty seconds time)
+- check new name channel on edit
+- change name of channel user online when join/leave
+- create channel with schemat when write in private to bot !newChannel
 ```
 1. Channel name
   ╔ sub1
