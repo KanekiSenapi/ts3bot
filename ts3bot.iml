@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../TS3/teamspeak3-api-1.1.0-with-dependencies.jar!/" />
+          <root url="jar://$MODULE_DIR$/teamspeak3-api-1.1.0-with-dependencies.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../TS3/mysql-connector-java-8.0.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/mysql-connector-java-8.0.12.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
